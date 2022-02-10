@@ -1,0 +1,7 @@
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\bin\Debug\Aplicacion1.exe.config
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\bin\Debug\Aplicacion1.exe
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\bin\Debug\Aplicacion1.pdb
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\obj\Debug\Aplicacion1.csproj.AssemblyReference.cache
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\obj\Debug\Aplicacion1.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\obj\Debug\Aplicacion1.exe
+C:\Users\natal\Documents\5 to ciclo\Aplicaciones\aplicacion consola.net\Aplicacion1\obj\Debug\Aplicacion1.pdb
